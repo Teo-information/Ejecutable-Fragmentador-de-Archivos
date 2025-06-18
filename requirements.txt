@@ -1,0 +1,3 @@
+# No se requieren dependencias externas de Python
+# El proyecto solo requiere ffmpeg instalado en el sistema
+# o se descargará automáticamente en el modo interactivo 
