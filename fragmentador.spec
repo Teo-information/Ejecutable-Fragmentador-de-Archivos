@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['fragmentador.py'],
+    ['src\\fragmentador.py'],
     pathex=[],
     binaries=[],
     datas=[],
